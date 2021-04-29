@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="基于java的停车场管理系统">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/code/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/code/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/code/lib" recursive="false" />
+  </library>
+</component>

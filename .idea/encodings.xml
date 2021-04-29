@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/src/LicensePlateRecognition/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/Common/MDIDesktopManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/Common/MDIDesktopPane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/DAL/Dal.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/DAO/charger.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/DAO/park.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/DAO/sit_infor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/DAO/users.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/ImageRecognition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/code/src/whsdu/se/UI/LoginFrame.java" charset="GBK" />
+  </component>
+</project>
